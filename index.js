@@ -8,7 +8,8 @@ quotient++;
 console.log(quotient)
 
 quotient--;
-
+ quotient ++;
+ 
 console.log(quotient)
 
 
@@ -159,8 +160,8 @@ var lastletterofFirstName=firstName3[firstName3.length-1];
 //Bracket Notation to find Nth-to-last character in string....
 //3rd last,4th last, 5th last etc letter
 
-var thirdToLastLetterofFirstName=firstName3[firstName3.length-3];  //it will give 4th last letter..
-var secondToLastLetterofFirstName=firstName3[firstName3.length-2];  //it will give 4th last letter..
+var thirdToLastLetterofFirstName=firstName3[firstName3.length-3];  //it will give 3th last letter..
+var secondToLastLetterofFirstName=firstName3[firstName3.length-2];  //it will give 2th last letter..
 
 
 //FUNCTIONS IN JAVASCRIPT
@@ -193,4 +194,7 @@ var ourArray=["Najiyya",123];
 
 var array1=[[123,"najia"],[234,"najiyya"]];
 
-var arra
+
+
+
+
